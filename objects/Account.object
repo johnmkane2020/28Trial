@@ -323,13 +323,15 @@
     </fields>
     <fields>
         <fullName>Test_Field__c</fullName>
+        <caseSensitive>false</caseSensitive>
+        <description>Dev1 description and also changed unique value</description>
         <externalId>false</externalId>
         <label>Test Field</label>
         <length>50</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
-        <unique>false</unique>
+        <unique>true</unique>
     </fields>
     <fields>
         <fullName>TickerSymbol</fullName>
