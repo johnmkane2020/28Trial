@@ -27,7 +27,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Test_One__c</field>
+                <field>Test_Field__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
