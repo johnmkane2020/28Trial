@@ -409,13 +409,13 @@ CASE( Dreamforce__c,
                 <sorted>false</sorted>
                 <value>
                     <fullName>Dog</fullName>
-                    <default>false</default>
+                    <default>true</default>
                     <label>Dog</label>
                 </value>
                 <value>
-                    <fullName>Cat</fullName>
+                    <fullName>Snake</fullName>
                     <default>false</default>
-                    <label>Cat</label>
+                    <label>Snake</label>
                 </value>
                 <value>
                     <fullName>Bird</fullName>
@@ -423,9 +423,9 @@ CASE( Dreamforce__c,
                     <label>Bird</label>
                 </value>
                 <value>
-                    <fullName>Snake</fullName>
+                    <fullName>Cat</fullName>
                     <default>false</default>
-                    <label>Snake</label>
+                    <label>Cat</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
