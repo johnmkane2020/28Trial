@@ -413,9 +413,9 @@ CASE( Dreamforce__c,
                     <label>Dog</label>
                 </value>
                 <value>
-                    <fullName>Snake</fullName>
+                    <fullName>Cat</fullName>
                     <default>false</default>
-                    <label>Snake</label>
+                    <label>Cat</label>
                 </value>
                 <value>
                     <fullName>Bird</fullName>
@@ -423,14 +423,9 @@ CASE( Dreamforce__c,
                     <label>Bird</label>
                 </value>
                 <value>
-                    <fullName>Cat</fullName>
+                    <fullName>Snake</fullName>
                     <default>false</default>
-                    <label>Cat</label>
-                </value>
-                <value>
-                    <fullName>Lizard</fullName>
-                    <default>false</default>
-                    <label>Lizard</label>
+                    <label>Snake</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
