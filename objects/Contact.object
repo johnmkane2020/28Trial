@@ -427,6 +427,17 @@ CASE( Dreamforce__c,
                     <default>false</default>
                     <label>Snake</label>
                 </value>
+                <value>
+                    <fullName>Horse</fullName>
+                    <default>false</default>
+                    <label>Horse</label>
+                </value>
+                <value>
+                    <fullName>Lizard</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Lizard</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
