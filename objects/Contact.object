@@ -427,6 +427,17 @@ CASE( Dreamforce__c,
                     <default>false</default>
                     <label>Snake</label>
                 </value>
+                <value>
+                    <fullName>Horse</fullName>
+                    <default>false</default>
+                    <label>Horse</label>
+                </value>
+                <value>
+                    <fullName>Lizard</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Lizard</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -487,6 +498,16 @@ CASE( Dreamforce__c,
     <fields>
         <fullName>Name</fullName>
         <trackFeedHistory>true</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>Nickname__c</fullName>
+        <externalId>false</externalId>
+        <label>Nickname</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>OtherAddress</fullName>
